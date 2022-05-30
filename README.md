@@ -16,4 +16,4 @@ My Skills Are
 
 My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![tHub stats](https://github-readme-stats.vercel.app/api?username=edwaldkeeley)](https://github.com/anuraghazra/github-readme-stats)
