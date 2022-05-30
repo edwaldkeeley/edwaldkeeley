@@ -16,4 +16,4 @@ My Skills Are
 
 My stats
 
-[![tHub stats](https://github-readme-stats.vercel.app/api?username=edwaldkeeley)](https://github.com/edwaldkeeley/github-readme-stats)
+[![tHub stats](https://github-readme-stats.vercel.app/api?username=edwaldkeeley)
