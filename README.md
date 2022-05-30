@@ -2,7 +2,7 @@
 
 # Welcome To Edwald
                                                         
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://user-images.githubusercontent.com/91954979/170943151-97327f8d-ba73-47ac-92d1-fc6fb38d8ea7.svg)
 
 --------
 
@@ -19,4 +19,6 @@
 ## My stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwaldkeeley&show_icons=true&theme=radical)
+
+
 
