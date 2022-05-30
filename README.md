@@ -1,10 +1,15 @@
+
+![480px-JavaScript-logo](https://user-images.githubusercontent.com/91954979/170942431-02361469-317b-46c4-ba3e-1fd6b9a6ce1a.png)
+
+
+
 # Welcome To Edwald
                                                         
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 --------
 
-## My Skills Are
+## My Skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,css,html)](https://skills.thijs.gg) 
 
