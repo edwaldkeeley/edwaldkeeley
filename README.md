@@ -11,3 +11,9 @@ My Skills Are
 -- Im Currently Learn JS🎉
 
 -- Feel Free To Contact Me At edwaldpk@gmail.com
+
+--------
+
+My stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
