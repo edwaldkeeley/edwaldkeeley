@@ -9,4 +9,3 @@ My Skills Are
 
 -- Im Trying To Learn React.js
 
-[![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg) 
