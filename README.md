@@ -8,5 +8,4 @@ My Skills Are
 
 -- Im Currently Learn JS🎉
 
--- Im Trying To Learn React.js
-
+-- Feel Free To Contact Me At edwaldpk@gmail.com
