@@ -4,6 +4,8 @@ Welcome To Edwald
 
 My Skills Are
 
+------
+
 [![My Skills](https://skills.thijs.gg/icons?i=js,css,html)](https://skills.thijs.gg) 
 
 -- Im Currently Learn JS🎉
