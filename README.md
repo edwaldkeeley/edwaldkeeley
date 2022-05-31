@@ -1,6 +1,6 @@
 
 
-# Welcome To Edwald Github ![github(1)](https://user-images.githubusercontent.com/91954979/171115994-a69dc019-aa83-49d0-ba0e-590e53d8e5b8.svg)
+# Welcome To Edwald Github
                                                         
 --------
 
