@@ -15,6 +15,10 @@
 
 ### Im Currently Learn JS🎉
 
+--------
+
+## Contact Me
+
 ### Feel Free To Contact Me At edwaldpk@gmail.com
 
 --------
