@@ -28,3 +28,8 @@
 
 --------
 
+## Top Repositories
+
+<a href="https://github.com/edwaldkeeley/Samurai-game-FINISHED.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=anuraghazra.github.io&theme=radical" />
+</a>
