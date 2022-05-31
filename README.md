@@ -18,7 +18,10 @@
 
 ## Contact Me
 
-### edwaldpk@gmail.com
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+
 <br>
 <br>
 
