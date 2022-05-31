@@ -10,6 +10,9 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,css,html)](https://skills.thijs.gg) 
 
+--------
+## Learnings
+
 ### Im Currently Learn JS🎉
 
 ### Feel Free To Contact Me At edwaldpk@gmail.com
