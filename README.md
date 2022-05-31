@@ -18,7 +18,7 @@
 
 ## Contact Me
 
-### edwaldpk@gmail.com
+[This is link to github.com](edwaldpk@gmail.com)
 
 <br>
 <br>
