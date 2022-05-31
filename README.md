@@ -18,7 +18,7 @@
 
 ## Contact Me
 
-<img alt="gmail" src="264-2640630_gmail-icon" width="300"></img>
+<img alt="gmail" src="264-2640630_gmail-icon.jpg" width="300"></img>
 
 <br>
 <br>
