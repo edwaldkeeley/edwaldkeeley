@@ -6,8 +6,8 @@
 
 ## My Skills
 
+<a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg) </a>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,css,html)](https://skills.thijs.gg) 
 
 --------
 ## Learnings
