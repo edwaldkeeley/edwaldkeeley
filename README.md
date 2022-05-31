@@ -18,7 +18,9 @@
 
 ## Contact Me
 
-### Feel Free To Contact Me At edwaldpk@gmail.com
+<a href="edwaldpk@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
 
 --------
 
