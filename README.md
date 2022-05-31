@@ -33,3 +33,7 @@
 <a href="https://github.com/edwaldkeeley/Samurai-game-FINISHED">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Samurai-game-FINISHED&theme=radical" />
 </a>
+
+<a href="https://github.com/edwaldkeeley/bankist-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=bankist-app&theme=radical" />
+</a>
