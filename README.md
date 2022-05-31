@@ -18,7 +18,7 @@
 
 ## Contact Me
 
-[This is link to github.com](edwaldpk@gmail.com)
+<img alt="Sign into GitHub to use GitHub Copilot" src="resources/sign-in.png" width="300"></img>
 
 <br>
 <br>
