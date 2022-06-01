@@ -35,6 +35,13 @@
 
 --------
 
+## Socials
+
+
+<p align="left"> <a href="https://discord.com/users/Edwald#3143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+
+--------
+
 ## My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwaldkeeley&show_icons=true&theme=radical) 
