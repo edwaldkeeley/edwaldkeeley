@@ -37,12 +37,14 @@
 ## My Stats
 
 ![edwald GitHub stats](https://github-readme-stats.vercel.app/api?username=edwaldkeeley&show_icons=true&theme=radical)
+| ------------- | ------------- |
   
 --------
 
 ## Most Used Programming Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwaldkeeley&layout=compact&theme=radical)
+| ------------- | ------------- |
 
 --------
 ## Top Repositories
