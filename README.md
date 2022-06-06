@@ -8,11 +8,7 @@
 
 <a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg) </a>
 
-
-
 <a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) </a>
-
-
 
 <a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) </a>
 
