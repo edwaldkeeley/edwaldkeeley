@@ -59,7 +59,7 @@
 ---------
 ## Commit Graph
   
-<a href="http://www.github.com/edwaldkeeley"><img src="https://activity-graph.herokuapp.com/graph?username=edwaldkeeley&bg_color=22272e&color=0891b2&line=facc15&point=0891b2&area_color=22272e&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/edwaldkeeley"><img src="https://activity-graph.herokuapp.com/graph?username=edwaldkeeley&theme=radical&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 ---------
 
