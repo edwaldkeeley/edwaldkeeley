@@ -65,7 +65,7 @@
 
 ## Commit Streak
 
-<a href="http://www.github.com/edwaldkeeley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwaldkeeley&stroke=64748b&theme=radical&currStreakNum=64748b&fire=b92e2e&ring=f97316&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=false" /></a>
+<a href="http://www.github.com/edwaldkeeley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwaldkeeley&stroke=64748b&theme=dark&currStreakNum=64748b&fire=b92e2e&ring=f97316&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=false" /></a>
   
 ---------
   
