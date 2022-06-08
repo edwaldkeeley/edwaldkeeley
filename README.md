@@ -37,7 +37,7 @@
 ## My Stats
 
 <a href="https://github.com/edwaldkeeley">
-![edwald GitHub stats](https://github-readme-stats.vercel.app/api?username=edwaldkeeley&show_icons=true&theme=radical)
+  ![edwald GitHub stats](https://github-readme-stats.vercel.app/api?username=edwaldkeeley&show_icons=true&theme=radical)
 </a>
   
 --------
