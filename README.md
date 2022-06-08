@@ -42,7 +42,7 @@
 
 ## Most Used Programming Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwaldkeeley&layout=compact&theme=radical)
+<a href="https://github.com/edwaldkeeley" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwaldkeeley&langs_count=10&theme=radical&layout=compact&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 --------
 ## Top Repositories
