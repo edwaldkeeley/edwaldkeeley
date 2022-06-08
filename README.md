@@ -59,13 +59,13 @@
 ---------
 ## Commit Graph
   
-<a href="http://www.github.com/edwaldkeeley"><img src="https://activity-graph.herokuapp.com/graph?username=edwaldkeeley&theme=radical&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/edwaldkeeley"><img src="https://activity-graph.herokuapp.com/graph?username=edwaldkeeley&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 ---------
 
 ## Commit Streak
 
-<a href="http://www.github.com/edwaldkeeley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwaldkeeley&stroke=64748b&theme=dark&currStreakNum=64748b&fire=b92e2e&ring=f97316&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=false" /></a>
+<a href="http://www.github.com/edwaldkeeley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwaldkeeley&stroke=64748b&theme=nightowl&currStreakNum=64748b&fire=b92e2e&ring=f97316&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=false" /></a>
   
 ---------
   
