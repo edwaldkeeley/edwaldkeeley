@@ -12,6 +12,7 @@
 ## Learnings
 
 ### Im Currently Learn JS🎉
+### Trying To Get Better At React And Scss
 
 --------
 
