@@ -6,7 +6,7 @@
 
 ## My Skills
 
-<a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,scss,redux)](https://skills.thijs.gg) </a>
+<a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,scss,shell)](https://skills.thijs.gg) </a>
 
 --------
 ## Learnings
