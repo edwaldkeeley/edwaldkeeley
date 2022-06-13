@@ -46,7 +46,7 @@
 
 ## Codewar Badges
 
-https://www.codewars.com/users/edwaldkeeley/badges/large
+[![My Skills](https://www.codewars.com/users/edwaldkeeley/badges/large)
 
 --------
 
