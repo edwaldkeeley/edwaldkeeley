@@ -9,7 +9,7 @@
 <a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,scss)](https://skills.thijs.gg) </a>
 
 
-<p align="left"> <a href="\http://www.github.com/edwaldkeeley"><img src="https://github-profile-trophy.vercel.app/?username=edwaldkeeley&theme=radical$rank=S" alt="edwaldkeeley" /></a> </p>
+<p align="left"> <a href="http://www.github.com/edwaldkeeley"><img src="https://github-profile-trophy.vercel.app/?username=edwaldkeeley&theme=radical" alt="edwaldkeeley" /></a> </p>
 
 --------
 ## Learnings
