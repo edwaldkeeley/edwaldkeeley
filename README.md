@@ -7,6 +7,7 @@
 ## My Skills
 
 <a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,scss)](https://skills.thijs.gg) </a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 
 
 <p align="left"> <a href="http://www.github.com/edwaldkeeley"><img src="https://github-profile-trophy.vercel.app/?username=edwaldkeeley&theme=radical" alt="edwaldkeeley" /></a> </p>
