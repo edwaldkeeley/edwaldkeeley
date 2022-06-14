@@ -44,7 +44,7 @@
 
 --------
 
-## Codewar Profile Badges
+## Codewar Profile
 
 <a href='https://www.codewars.com/users/edwaldkeeley'>![My Skills](https://www.codewars.com/users/edwaldkeeley/badges/large)</a>
 
