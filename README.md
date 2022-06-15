@@ -65,6 +65,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=bankist-app&theme=radical" />
 </a>
 
+<a href="https://github.com/edwaldkeeley/Bankist-App-V3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Bankist-App-V3&theme=radical" />
+</a>
   
 ---------
 ## Commit Graph
