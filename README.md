@@ -44,12 +44,6 @@
 
 --------
 
-## Codewar Profile
-
-<a href='https://www.codewars.com/users/edwaldkeeley'>![My Skills](https://www.codewars.com/users/edwaldkeeley/badges/large)</a>
-
---------
-
 ## Most Used Programming Language
 
 <a href="https://github.com/edwaldkeeley" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwaldkeeley&langs_count=10&theme=radical&layout=compact&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
