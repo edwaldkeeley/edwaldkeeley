@@ -48,7 +48,6 @@
 
 [![edwald wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Edwald_keeley)](https://github.com/edwaldkeeley)
 
-[![wakatime](https://wakatime.com/badge/user/ea9fbf29-8721-4e97-a61f-956d2a6bc109.svg)](https://wakatime.com/@ea9fbf29-8721-4e97-a61f-956d2a6bc109)
 --------
 
 ## Most Used Programming Language
