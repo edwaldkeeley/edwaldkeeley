@@ -45,9 +45,11 @@
 --------
 
 ## WakaTime Stat
+<!--START_SECTION:waka-->
 
-[![edwald wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Edwald_keeley)](https://github.com/edwaldkeeley)
 
+
+<!--END_SECTION:waka-->
 --------
 
 ## Most Used Programming Language
