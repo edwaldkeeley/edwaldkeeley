@@ -46,7 +46,7 @@
 
 ## WakaTime Stat
 
-[![edwald wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edwaldkeeley)](https://github.com/edwaldkeeley)
+[![edwald wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Edwald_keeley)](https://github.com/edwaldkeeley)
 
 --------
 
