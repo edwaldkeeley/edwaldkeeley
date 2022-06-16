@@ -41,6 +41,13 @@
 
 <a href="http://www.github.com/edwaldkeeley"><img src="https://github-readme-stats.vercel.app/api?username=edwaldkeeley&show_icons=true&hide=&count_private=true&theme=radical&hide_border=false&show_icons=true&count_private=true&include_all_commits=true&count_private" alt="edwaldkeeley's GitHub stats=true" /></a>
 
+
+--------
+
+## WakaTime Stat
+
+[![edwald wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edwaldkeeley)](https://github.com/edwaldkeeley)
+
 --------
 
 ## Most Used Programming Language
