@@ -79,7 +79,7 @@
 ## README
 
 <a href="https://github.com/edwaldkeeley/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=README.md&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=README.md&theme=nightowl" />
 </a>
   
 ---------
