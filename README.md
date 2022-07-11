@@ -49,7 +49,7 @@
 <a href="https://github.com/edwaldkeeley" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwaldkeeley&langs_count=10&theme=radical&layout=compact&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 --------
-## Top Repositories
+## Finished Projects
 
 <a href="https://github.com/edwaldkeeley/Samurai-game-FINISHED">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Samurai-game-FINISHED&theme=radical" />
@@ -63,6 +63,41 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Bankist-App-V3&theme=radical" />
 </a>
   
+ <a href="https://github.com/edwaldkeeley/Natours">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Natours&theme=radical" />
+</a>
+
+ <a href="https://github.com/edwaldkeeley/Country-Finder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Country-Finder&theme=radical" />
+</a>
+
+
+ <a href="https://github.com/edwaldkeeley/Forkify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Forkify&theme=radical" />
+</a>
+
+
+ <a href="https://github.com/edwaldkeeley/Mapty">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Mapty&theme=radical" />
+</a>
+
+ <a href="https://github.com/edwaldkeeley/Minecraft-Edwald-V2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=Minecraft-Edwald-V2&theme=radical" />
+</a>
+
+ <a href="https://github.com/edwaldkeeley/3-column-preview-card-component">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=3-column-preview-card-component&theme=radical" />
+</a>
+
+ <a href="https://github.com/edwaldkeeley/pig-game-OWN-SOLUTION">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=pig-game-OWN-SOLUTION&theme=radical" />
+</a>
+
+
+ <a href="https://github.com/edwaldkeeley/guess-my-number-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=guess-my-number-v2&theme=radical" />
+</a>
+
 ---------
 ## Commit Graph
   
