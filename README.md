@@ -110,13 +110,3 @@
 <a href="http://www.github.com/edwaldkeeley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwaldkeeley&stroke=64748b&theme=nightowl&currStreakNum=64748b&fire=b92e2e&ring=f97316&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=false" /></a>
   
 ---------
-
-## ReadMe
-
-<a href="https://github.com/edwaldkeeley/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwaldkeeley&repo=README.md&theme=nightowl" />
-</a>
-  
----------
-
-
