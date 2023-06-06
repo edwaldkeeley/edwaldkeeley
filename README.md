@@ -4,7 +4,6 @@
     
 --------
 
-
 ## My Skills
 
 <a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,scss,nodejs,figma,python,mongodb,express,tailwind)](https://github.com/edwaldkeeley) </a>
