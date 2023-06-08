@@ -4,7 +4,6 @@
     
 --------
 
-
 ## My Skills
 
 <a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,scss,nodejs,figma,python,mongodb,express,tailwind)](https://github.com/edwaldkeeley) </a>
@@ -34,12 +33,6 @@
 
 <p align="left"> <a href="https://discord.com/users/Edwald#3143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/edwaldkeeley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><p align="left"> <a href="https://www.linkedin.com/in/edwald-pericles-keeley/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
---------
-
-## My Stats
-
-<a href="http://www.github.com/edwaldkeeley"><img src="https://github-readme-stats.vercel.app/api?username=edwaldkeeley&show_icons=true&hide=&count_private=true&theme=radical&hide_border=false&show_icons=true&count_private=true&include_all_commits=true&count_private" alt="edwaldkeeley's GitHub stats=true" /></a>
 
 --------
 
