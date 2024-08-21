@@ -6,7 +6,7 @@
 
 ## My Skills
 
-<a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,scss,nodejs,figma,python,mongodb,express,tailwind)](https://github.com/edwaldkeeley) </a>
+// <a name="ordered-list">[![My Skills](https://skills.thijs.gg/icons?i=js,css,html,react,scss,nodejs,figma,python,mongodb,express,tailwind)](https://github.com/edwaldkeeley) </a>
 
 <p align="left"> <a href="http://www.github.com/edwaldkeeley"><img src="https://github-profile-trophy.vercel.app/?username=edwaldkeeley&theme=discord&margin=2px&no-frame=true" alt="edwaldkeeley" /></a> </p>
 
