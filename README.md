@@ -2,12 +2,6 @@
 
 
 ![Dino](https://user-images.githubusercontent.com/91954979/174422287-db4715c9-cecf-46c4-892c-00de0c19209d.gif)
-    
---------
-
-## My Skills
-
-<p align="left"> <a href="http://www.github.com/edwaldkeeley"><img src="https://github-profile-trophy.vercel.app/?username=edwaldkeeley&theme=discord&margin=2px&no-frame=true" alt="edwaldkeeley" /></a> </p>
 
 --------
 ## Learnings
@@ -28,7 +22,6 @@
 --------
 
 ## Socials
-
 
 <p align="left"> <a href="https://discord.com/users/Edwald#3143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/edwaldkeeley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><p align="left"> <a href="https://www.linkedin.com/in/edwald-pericles-keeley/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
@@ -93,12 +86,3 @@
 <a href="https://github.com/edwaldkeeley?tab=repositories">
     <img src="https://user-images.githubusercontent.com/91954979/178217232-5e7a9dc6-0037-47ca-bc79-a687daddb855.png"></img>
 </a>
-
----------
-
-## Commit Streak
-
-<a href="http://www.github.com/edwaldkeeley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edwaldkeeley&stroke=64748b&theme=nightowl&currStreakNum=64748b&fire=b92e2e&ring=f97316&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=false" /></a>
-  
----------
-
